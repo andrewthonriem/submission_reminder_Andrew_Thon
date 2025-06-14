@@ -1,4 +1,8 @@
+feature/setup
+#!/bin/bash
+=======
 #!/bin/bash 
+main
 
 DIR=$(find . -type d -name "submission_reminder_*" | head -n 1)
 
@@ -17,4 +21,7 @@ echo "Assignment name updated to \"$new_assignment\"."
 
 cd "$DIR"
 bash "./startup.sh"
+feature/setup
+=======
 
+main

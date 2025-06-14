@@ -85,4 +85,7 @@ chmod +x "$Dir/app/reminder.sh" "$Dir/modules/functions.sh" "$Dir/startup.sh"
 chmod +x "$Dir/app/reminder.sh"
 
 echo "Environment created successfully in $Dir"
+feature/setup
+=======
 
+main
