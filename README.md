@@ -33,8 +33,10 @@ cd submission_reminder_andrewthonriem/scripts
   
 ***Enter the new assignment name.***
 
-***The script updates <span style="color:blue">config.env</span>
- and reruns the reminder check.***
+***The script updates config.env and reruns the reminder check.***
+
+## Author
+[Andrew Thon Riem Alier]
 
 
 
