@@ -1,1 +1,5 @@
-# submission_reminder_Andrew_Thon
+# Table Of Content
+  App overview
+  Directory Structure
+  How to run the app
+  
